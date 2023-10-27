@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @GustavoZappe
 - 👀 I’m interested in Estudar
 - 🌱 I’m currently learning Pensamento Computacional
-- 💞️ I’m looking to collaborate on O MEIO AMBIENTE
+- 💞️ I’m looking to collaborate on FUTEBOL
+- 
 - 📫 How to reach me gustavo.zappe@escola.pr.gov.br
 
 <!---
